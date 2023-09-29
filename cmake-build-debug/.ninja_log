@@ -1,0 +1,7 @@
+# ninja log v5
+1	506	7177136540653527	CMakeFiles/assignment.dir/Pattern01.c.obj	5df59700ef1fcb44
+2	489	7177135838852945	CMakeFiles/assignment.dir/main.c.obj	c0bee9ff5f1a643
+0	289	7177138409643051	build.ninja	1dc5d433fc14c7d9
+490	685	7177135840768498	assignment.exe	24ebe7102ede8f34
+1	440	7177138338893156	CMakeFiles/assignment.dir/assign1.c.obj	d17e72e3916aaeab
+1	445	7177138557124905	CMakeFiles/assignment.dir/assign1.c.obj	d17e72e3916aaeab
