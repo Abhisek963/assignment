@@ -4,4 +4,5 @@ project(assignment C)
 set(CMAKE_C_STANDARD 23)
 
 add_executable(assignment
-        assign2.c)
+
+        assign3.c)
