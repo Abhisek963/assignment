@@ -5,4 +5,4 @@ set(CMAKE_C_STANDARD 23)
 
 add_executable(assignment
 
-        assign3.c)
+        "C 01.c")

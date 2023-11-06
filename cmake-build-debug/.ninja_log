@@ -1,14 +1,11 @@
 # ninja log v5
 1	506	7177136540653527	CMakeFiles/assignment.dir/Pattern01.c.obj	5df59700ef1fcb44
+7	2322	7185741448964920	CMakeFiles/assignment.dir/assign3.c.obj	1ea8d1c1c62cc1
 2	489	7177135838852945	CMakeFiles/assignment.dir/main.c.obj	c0bee9ff5f1a643
-1	304	7185739166063631	build.ninja	1dc5d433fc14c7d9
-429	625	7177148177519571	assignment.exe	417f39ea2db658e2
+2	471	7209808311413723	CMakeFiles/assignment.dir/C_01.c.obj	60931ab32b33268
+4	1222	7209808471044651	build.ninja	1dc5d433fc14c7d9
+2323	3243	7185741457746137	assignment.exe	d0cb3077e23a8dc1
 1	445	7177138557124905	CMakeFiles/assignment.dir/assign1.c.obj	d17e72e3916aaeab
 1	429	7177148175603613	CMakeFiles/assignment.dir/assign2.c.obj	347ca024ba80a84b
-4	1222	7185739166063631	build.ninja	1dc5d433fc14c7d9
-2	1868	7185739185810717	CMakeFiles/assignment.dir/assign3.c.obj	1ea8d1c1c62cc1
-1870	2814	7185739195440206	assignment.exe	d0cb3077e23a8dc1
-5	1865	7185740095637164	CMakeFiles/assignment.dir/assign3.c.obj	1ea8d1c1c62cc1
-1866	2621	7185740103078626	assignment.exe	d0cb3077e23a8dc1
-7	2322	7185741448964920	CMakeFiles/assignment.dir/assign3.c.obj	1ea8d1c1c62cc1
-2323	3243	7185741457746137	assignment.exe	d0cb3077e23a8dc1
+0	289	7209808471044651	build.ninja	1dc5d433fc14c7d9
+1	191	7209808473243861	assignment.exe	e2f544d30a7b940c
