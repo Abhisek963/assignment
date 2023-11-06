@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/abhis/CLionProjects/assignment/cmake-build-debug
 
 build cmake_object_order_depends_target_assignment: phony || CMakeFiles/assignment.dir
 
-build CMakeFiles/assignment.dir/C_02.c.obj: C_COMPILER__assignment_unscanned_Debug C$:/Users/abhis/CLionProjects/assignment/C$ 02.c || cmake_object_order_depends_target_assignment
-  DEP_FILE = CMakeFiles\assignment.dir\C_02.c.obj.d
+build CMakeFiles/assignment.dir/C_03.c.obj: C_COMPILER__assignment_unscanned_Debug C$:/Users/abhis/CLionProjects/assignment/C$ 03.c || cmake_object_order_depends_target_assignment
+  DEP_FILE = CMakeFiles\assignment.dir\C_03.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\assignment.dir
   OBJECT_FILE_DIR = CMakeFiles\assignment.dir
@@ -63,7 +63,7 @@ build CMakeFiles/assignment.dir/C_02.c.obj: C_COMPILER__assignment_unscanned_Deb
 #############################################
 # Link the executable assignment.exe
 
-build assignment.exe: C_EXECUTABLE_LINKER__assignment_Debug CMakeFiles/assignment.dir/C_02.c.obj
+build assignment.exe: C_EXECUTABLE_LINKER__assignment_Debug CMakeFiles/assignment.dir/C_03.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\assignment.dir
